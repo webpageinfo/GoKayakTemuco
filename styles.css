@@ -87,3 +87,14 @@ a {
   color: #fff;
   font-size: 0.9rem;
 }
+.social-icons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 18px;
+}
+
+.social-icons i {
+  margin-right: 8px;
+  color: #333;
+}
